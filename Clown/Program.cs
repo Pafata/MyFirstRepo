@@ -10,6 +10,7 @@ namespace Clown
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Clowns are not funny after midnight!");
         }
     }
 }
